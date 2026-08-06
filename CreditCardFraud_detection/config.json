@@ -1,0 +1,14 @@
+{
+    "data_path": "creditcard.csv",
+    "test_size": 0.2,
+    "random_state": 42,
+    "outlier_contamination": 0.05,
+    "smote_k_neighbors": 5,
+    "models_dir": "models",
+    "scalers_dir": "scalers",
+    "artifacts_dir": "artifacts",
+    "results_dir": "results",
+    "plots_dir": "plots",
+    "best_model": "Random Forest",
+    "optimal_threshold": 0.7500000000000002
+}
